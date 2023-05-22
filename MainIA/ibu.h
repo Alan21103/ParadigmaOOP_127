@@ -26,3 +26,4 @@ void ibu::cetakAnak(anak* pAnak) {
 	cout << endl;
 }
 #endif
+
